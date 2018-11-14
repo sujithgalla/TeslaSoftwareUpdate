@@ -18,15 +18,45 @@ Main Participants and Actions:
   engineering team 
     Validates Updates, develops software, 
   
+  Regulator
   
   
-
-
+  
+  
 Reduced List,
+  Tesla & Elon Musk
+  Engineering Team
+  Consumer Report
+  Customer
+  mistrust between campanies and consumers - https://forums.tesla.com/forum/forums/did-tesla-just-slow-down-our-cars
+  OTA changes the way drivers experience the car
+    it makes them susceptible to confusion on their car's behaviour. 
+    Is the car degrading due to bad driving or is it purposefuly degrading.
+  hidden side effects of an update: intended or unintended?
 Legal Considerations,
+  Should products be under the direct control of Makers till redundant?
+  can they be trusted?
+  what does law say about right to full ownership?
+  necessary updates?
+  if customer cannot differentiate what the update will do?
+  
+  is OTA legal? is the ability of OTA legal? Regulators cannot test OTA changes are software changes and hence anything could change.
+  are updates shared with regulator for approval?
+  OTA can leave a person in a desperate situation or even a life threatening situation
+  security vulnerabilities?
+  
 Possible Options for Participants, 
+  company can share Source code and technical specs of updates,
+  provide analytical metrics to customers of all of their car systems(before and after update metrics)[transparency],
+  Regulator creates OTA framework in conjenction with Commercial companies and Customer protection Associations,
+    
+
 Possible Justifications for Actions,
+
 Key Statements,
 Questions raised,
+  Have comapnies considered when to do OTA? avoid impact to customer 
+  i.e. is the OTA suddenly going to fail the car in the middle of driving or leave them stranded in the middle of nowhere.
+  
 Analogies employed,
 Codes of Ethics utilised. 
